@@ -6,3 +6,7 @@ body {
     margin-top: 10px;
     background-color: #f90;
 }
+
+iframe {
+    border: 1px solid #fff;
+}
